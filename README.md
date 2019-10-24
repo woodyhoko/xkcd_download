@@ -11,7 +11,4 @@ last updated 10/21/19
 tested under python 2.7
 
 ## Run
-```bash
 python download.py
-python rename.py
-```
